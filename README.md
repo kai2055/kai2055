@@ -1,4 +1,14 @@
-## Hi there 👋
+# Nikhil Adhikari
+
+MSc Data Science, AI & Digital Business @ GISMA University of Applied Sciences (Berlin).
+Headed for ML Engineering / MLOps / ML Reliability Engineering.
+
+**I build ML systems that don't just work — they stay working.**
+
+Most ML portfolios show a model that runs once. Mine show systems that keep
+running: data validated before it enters, models watched in production, and
+failures turned into measurable, deployment-gating feedback. One principle,
+three layers.
 
 <!--
 **kai2055/kai2055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
